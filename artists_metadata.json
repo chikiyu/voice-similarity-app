@@ -8,7 +8,7 @@
     ],
     "popularity": 15391837,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/e5fc443d2abc03b487234ba4de65a001/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/75798",
+    "spotify_url": "https://open.spotify.com/search/Adele",
     "search_name": "Adele"
   },
   {
@@ -20,7 +20,7 @@
     ],
     "popularity": 20798325,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/d6bb84390641d8ae9118228d9544e53d/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/384236",
+    "spotify_url": "https://open.spotify.com/search/Ed%20Sheeran",
     "search_name": "Ed Sheeran"
   },
   {
@@ -32,7 +32,7 @@
     ],
     "popularity": 13318389,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/3504ffe2519090026bc359b689d22e20/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/1562681",
+    "spotify_url": "https://open.spotify.com/search/Ariana%20Grande",
     "search_name": "Ariana Grande"
   },
   {
@@ -44,7 +44,7 @@
     ],
     "popularity": 12750378,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/0aa9d669be4e7310b8647afae37ffaab/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/145",
+    "spotify_url": "https://open.spotify.com/search/Beyonce",
     "search_name": "Beyonce"
   },
   {
@@ -56,7 +56,7 @@
     ],
     "popularity": 12563050,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/e528e270424103b527f8a27ac625563b/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/12246",
+    "spotify_url": "https://open.spotify.com/search/Taylor%20Swift",
     "search_name": "Taylor Swift"
   },
   {
@@ -68,7 +68,7 @@
     ],
     "popularity": 12602077,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/90f0b5b11df4f87ee878f38569b5995b/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/429675",
+    "spotify_url": "https://open.spotify.com/search/Bruno%20Mars",
     "search_name": "Bruno Mars"
   },
   {
@@ -80,7 +80,7 @@
     ],
     "popularity": 8700501,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/7375742a46dbebb6efc0ae362e18eb24/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/8706544",
+    "spotify_url": "https://open.spotify.com/search/Dua%20Lipa",
     "search_name": "Dua Lipa"
   },
   {
@@ -92,7 +92,7 @@
     ],
     "popularity": 9115593,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/7565262f7661b0d762621a8d69ba6f49/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/75491",
+    "spotify_url": "https://open.spotify.com/search/Lady%20Gaga",
     "search_name": "Lady Gaga"
   },
   {
@@ -104,7 +104,7 @@
     ],
     "popularity": 9139379,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/8eab1a9a644889aabaca1e193e05f984/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/9635624",
+    "spotify_url": "https://open.spotify.com/search/Billie%20Eilish",
     "search_name": "Billie Eilish"
   },
   {
@@ -116,8 +116,112 @@
     ],
     "popularity": 14466201,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/581693b4724a7fcfa754455101e13a44/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/4050205",
+    "spotify_url": "https://open.spotify.com/search/The%20Weeknd",
     "search_name": "The Weeknd"
+  },
+  {
+    "name": "Justin Timberlake",
+    "id": "1147",
+    "genres": [
+      "pop",
+      "r&b"
+    ],
+    "popularity": 6686651,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/c2b04e4f1d4036e896b67ad306008d66/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Justin%20Timberlake",
+    "deezer_url": "https://www.deezer.com/artist/1147",
+    "search_name": "Justin Timberlake"
+  },
+  {
+    "name": "Usher",
+    "id": "17",
+    "genres": [
+      "r&b",
+      "pop"
+    ],
+    "popularity": 7187818,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/7c25d479052a51ecc4674eae6e4c1c27/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Usher",
+    "deezer_url": "https://www.deezer.com/artist/17",
+    "search_name": "Usher"
+  },
+  {
+    "name": "Katy Perry",
+    "id": "144227",
+    "genres": [
+      "pop",
+      "electropop"
+    ],
+    "popularity": 9696224,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/9c144bd1ed91b2a59c826cf1d1cde633/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Katy%20Perry",
+    "deezer_url": "https://www.deezer.com/artist/144227",
+    "search_name": "Katy Perry"
+  },
+  {
+    "name": "P!nk",
+    "id": "69925",
+    "genres": [
+      "pop rock",
+      "pop"
+    ],
+    "popularity": 4623731,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/429e67544862ed2b4c820a02acc24ad1/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Pink",
+    "deezer_url": "https://www.deezer.com/artist/69925",
+    "search_name": "Pink"
+  },
+  {
+    "name": "Selena Gomez",
+    "id": "292185",
+    "genres": [
+      "pop",
+      "dance pop"
+    ],
+    "popularity": 5514135,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/26b3660183a4a626bb185a7089f090b4/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Selena%20Gomez",
+    "deezer_url": "https://www.deezer.com/artist/292185",
+    "search_name": "Selena Gomez"
+  },
+  {
+    "name": "Sabrina Carpenter",
+    "id": "1176900",
+    "genres": [
+      "pop",
+      "indie pop"
+    ],
+    "popularity": 1739669,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/4a9cdc7737e2a0e59b4917b47884b859/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Sabrina%20Carpenter",
+    "deezer_url": "https://www.deezer.com/artist/1176900",
+    "search_name": "Sabrina Carpenter"
+  },
+  {
+    "name": "Conan Gray",
+    "id": "50633812",
+    "genres": [
+      "indie pop",
+      "pop"
+    ],
+    "popularity": 851518,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/dbd4df70ee3bfa7a3a4806fa69edf543/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Conan%20Gray",
+    "deezer_url": "https://www.deezer.com/artist/50633812",
+    "search_name": "Conan Gray"
+  },
+  {
+    "name": "Meghan Trainor",
+    "id": "1181430",
+    "genres": [
+      "pop",
+      "doo-wop pop"
+    ],
+    "popularity": 1708587,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/cce89f3297e257613eea9c090bab6b02/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Meghan%20Trainor",
+    "deezer_url": "https://www.deezer.com/artist/1181430",
+    "search_name": "Meghan Trainor"
   },
   {
     "name": "Michael Jackson",
@@ -128,7 +232,7 @@
     ],
     "popularity": 12752524,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/97fae13b2b30e4aec2e8c9e0c7839d92/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/259",
+    "spotify_url": "https://open.spotify.com/search/Michael%20Jackson",
     "search_name": "Michael Jackson"
   },
   {
@@ -140,7 +244,7 @@
     ],
     "popularity": 3886308,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/7d7916383f536969db91430a2707d3c0/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/174",
+    "spotify_url": "https://open.spotify.com/search/Whitney%20Houston",
     "search_name": "Whitney Houston"
   },
   {
@@ -152,7 +256,7 @@
     ],
     "popularity": 3418405,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/818c27b3e5a6179d4cd2f053df9abaf1/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/65",
+    "spotify_url": "https://open.spotify.com/search/Mariah%20Carey",
     "search_name": "Mariah Carey"
   },
   {
@@ -164,7 +268,7 @@
     ],
     "popularity": 5554159,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/84b102bd5ea63d5e792a88f85f14adbc/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/1097709",
+    "spotify_url": "https://open.spotify.com/search/Sam%20Smith",
     "search_name": "Sam Smith"
   },
   {
@@ -176,7 +280,7 @@
     ],
     "popularity": 3545032,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/4ce9071cd0da497e8bd75337a5a21294/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/313",
+    "spotify_url": "https://open.spotify.com/search/John%20Legend",
     "search_name": "John Legend"
   },
   {
@@ -188,7 +292,7 @@
     ],
     "popularity": 3840195,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/0cacb43a576b031eb169cca27171c1f5/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/9052",
+    "spotify_url": "https://open.spotify.com/search/Amy%20Winehouse",
     "search_name": "Amy Winehouse"
   },
   {
@@ -200,8 +304,125 @@
     ],
     "popularity": 1223998,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/882155c08dc31d6464d6d580083c968c/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/1350335",
+    "spotify_url": "https://open.spotify.com/search/Frank%20Ocean",
     "search_name": "Frank Ocean"
+  },
+  {
+    "name": "Alicia Keys",
+    "id": "228",
+    "genres": [
+      "r&b",
+      "soul"
+    ],
+    "popularity": 5781686,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/a93317808f3d049e5abe7cf72ffe786f/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Alicia%20Keys",
+    "deezer_url": "https://www.deezer.com/artist/228",
+    "search_name": "Alicia Keys"
+  },
+  {
+    "name": "H.E.R.",
+    "id": "8114447",
+    "genres": [
+      "r&b",
+      "soul"
+    ],
+    "popularity": 992113,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/5d62fd6afd427c956c82730175bab341/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/HER",
+    "deezer_url": "https://www.deezer.com/artist/8114447",
+    "search_name": "HER"
+  },
+  {
+    "name": "GIVĒON",
+    "id": "48995601",
+    "genres": [
+      "r&b",
+      "soul"
+    ],
+    "popularity": 328585,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/ed28a8c3779e98280ebfb7a581f214d3/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Giveon",
+    "deezer_url": "https://www.deezer.com/artist/48995601",
+    "search_name": "Giveon"
+  },
+  {
+    "name": "Daniel Caesar",
+    "id": "5245183",
+    "genres": [
+      "r&b",
+      "neo soul"
+    ],
+    "popularity": 394188,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/973809864ad1c52d8c61238662400089/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Daniel%20Caesar",
+    "deezer_url": "https://www.deezer.com/artist/5245183",
+    "search_name": "Daniel Caesar"
+  },
+  {
+    "name": "Omar Apollo",
+    "id": "12073184",
+    "genres": [
+      "r&b",
+      "indie pop"
+    ],
+    "popularity": 18124,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/2806d34fdf6232d9cbd47ce41c78c7e9/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Omar%20Apollo",
+    "deezer_url": "https://www.deezer.com/artist/12073184",
+    "search_name": "Omar Apollo"
+  },
+  {
+    "name": "Norah Jones",
+    "id": "810",
+    "genres": [
+      "jazz",
+      "soul"
+    ],
+    "popularity": 2380359,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/6b1cf17dca8178a7e25e00149080dd7b/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Norah%20Jones",
+    "deezer_url": "https://www.deezer.com/artist/810",
+    "search_name": "Norah Jones"
+  },
+  {
+    "name": "Stevie Wonder",
+    "id": "166",
+    "genres": [
+      "soul",
+      "r&b"
+    ],
+    "popularity": 2400964,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/b8138428e7b0ce78843106b4b83d4e77/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Stevie%20Wonder",
+    "deezer_url": "https://www.deezer.com/artist/166",
+    "search_name": "Stevie Wonder"
+  },
+  {
+    "name": "Aretha Franklin",
+    "id": "2059",
+    "genres": [
+      "soul",
+      "gospel"
+    ],
+    "popularity": 1844906,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/4453648f7e780028c2be766b21474223/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Aretha%20Franklin",
+    "deezer_url": "https://www.deezer.com/artist/2059",
+    "search_name": "Aretha Franklin"
+  },
+  {
+    "name": "Ray Charles",
+    "id": "1342",
+    "genres": [
+      "soul",
+      "r&b"
+    ],
+    "popularity": 2918656,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/13ff3fb9ce04d808362f487ca36543b9/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Ray%20Charles",
+    "deezer_url": "https://www.deezer.com/artist/1342",
+    "search_name": "Ray Charles"
   },
   {
     "name": "Freddie Mercury",
@@ -212,7 +433,7 @@
     ],
     "popularity": 1919326,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/1258b3176e3a51217b3b4267d36de8b4/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/7870",
+    "spotify_url": "https://open.spotify.com/search/Freddie%20Mercury",
     "search_name": "Freddie Mercury"
   },
   {
@@ -224,7 +445,7 @@
     ],
     "popularity": 18260629,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/3087954bca22f306324912e5ac8375c3/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/892",
+    "spotify_url": "https://open.spotify.com/search/Coldplay",
     "search_name": "Coldplay"
   },
   {
@@ -236,7 +457,7 @@
     ],
     "popularity": 4032951,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/96b688020014a21cb80a0268b90287f5/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/399",
+    "spotify_url": "https://open.spotify.com/search/Radiohead",
     "search_name": "Radiohead"
   },
   {
@@ -248,7 +469,7 @@
     ],
     "popularity": 12093366,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/4886905210739af3438990897bad3a98/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/92",
+    "spotify_url": "https://open.spotify.com/search/Linkin%20Park",
     "search_name": "Linkin Park"
   },
   {
@@ -260,7 +481,7 @@
     ],
     "popularity": 9991207,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/3ec5542ff520ee74e2befdaba32ef2ef/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/415",
+    "spotify_url": "https://open.spotify.com/search/Nirvana",
     "search_name": "Nirvana"
   },
   {
@@ -272,7 +493,7 @@
     ],
     "popularity": 4549554,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/c2a443972cacf77896f91a66b30bfd9e/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/566",
+    "spotify_url": "https://open.spotify.com/search/Foo%20Fighters",
     "search_name": "Foo Fighters"
   },
   {
@@ -284,8 +505,125 @@
     ],
     "popularity": 7267810,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/b2048721919a09c1f0b65387b1f4d0f0/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/163",
+    "spotify_url": "https://open.spotify.com/search/U2",
     "search_name": "U2"
+  },
+  {
+    "name": "Arctic Monkeys",
+    "id": "1182",
+    "genres": [
+      "indie rock",
+      "alternative"
+    ],
+    "popularity": 4899698,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/6c03e4c7c36800897fd468633286db24/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Arctic%20Monkeys",
+    "deezer_url": "https://www.deezer.com/artist/1182",
+    "search_name": "Arctic Monkeys"
+  },
+  {
+    "name": "Muse",
+    "id": "705",
+    "genres": [
+      "alternative rock",
+      "progressive rock"
+    ],
+    "popularity": 5000639,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/cd7c5861be0009d3b75d4d3c069317a7/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Muse",
+    "deezer_url": "https://www.deezer.com/artist/705",
+    "search_name": "Muse"
+  },
+  {
+    "name": "Tame Impala",
+    "id": "134790",
+    "genres": [
+      "psychedelic pop",
+      "indie"
+    ],
+    "popularity": 1086994,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/879015e713cc6ad6ffaeec154c027505/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Tame%20Impala",
+    "deezer_url": "https://www.deezer.com/artist/134790",
+    "search_name": "Tame Impala"
+  },
+  {
+    "name": "The Killers",
+    "id": "897",
+    "genres": [
+      "indie rock",
+      "alternative"
+    ],
+    "popularity": 2218145,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/979d671d4b391bc07747bd1569e51997/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/The%20Killers",
+    "deezer_url": "https://www.deezer.com/artist/897",
+    "search_name": "The Killers"
+  },
+  {
+    "name": "Red Hot Chili Peppers",
+    "id": "182",
+    "genres": [
+      "rock",
+      "funk rock"
+    ],
+    "popularity": 7616155,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/238f5524a401dfdd5cac685f0f7989bd/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Red%20Hot%20Chili%20Peppers",
+    "deezer_url": "https://www.deezer.com/artist/182",
+    "search_name": "Red Hot Chili Peppers"
+  },
+  {
+    "name": "Green Day",
+    "id": "52",
+    "genres": [
+      "punk rock",
+      "alternative rock"
+    ],
+    "popularity": 5187479,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/690381cc69a21802b5d95b0460afb6a3/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Green%20Day",
+    "deezer_url": "https://www.deezer.com/artist/52",
+    "search_name": "Green Day"
+  },
+  {
+    "name": "Pearl Jam",
+    "id": "1319",
+    "genres": [
+      "grunge",
+      "alternative rock"
+    ],
+    "popularity": 3511192,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/3e279f4e0269fdb2733474ddfa074a91/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Pearl%20Jam",
+    "deezer_url": "https://www.deezer.com/artist/1319",
+    "search_name": "Pearl Jam"
+  },
+  {
+    "name": "Florence + The Machine",
+    "id": "183716",
+    "genres": [
+      "indie rock",
+      "art rock"
+    ],
+    "popularity": 1677892,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/03380466e2b2c6c681357f0de682b320/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Florence%20and%20the%20Machine",
+    "deezer_url": "https://www.deezer.com/artist/183716",
+    "search_name": "Florence and the Machine"
+  },
+  {
+    "name": "Jack White",
+    "id": "1945",
+    "genres": [
+      "blues rock",
+      "alternative"
+    ],
+    "popularity": 336849,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/0aa3aad736b2437bd6122f43251a07c4/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Jack%20White",
+    "deezer_url": "https://www.deezer.com/artist/1945",
+    "search_name": "Jack White"
   },
   {
     "name": "Eminem",
@@ -296,7 +634,7 @@
     ],
     "popularity": 18956092,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/0f30bbd33a680030054af004d698d6ac/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/13",
+    "spotify_url": "https://open.spotify.com/search/Eminem",
     "search_name": "Eminem"
   },
   {
@@ -308,7 +646,7 @@
     ],
     "popularity": 23960649,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/eb0ed5b21d1ea5af021fc074ded0e91f/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/246791",
+    "spotify_url": "https://open.spotify.com/search/Drake",
     "search_name": "Drake"
   },
   {
@@ -320,7 +658,7 @@
     ],
     "popularity": 6097168,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/be0a7c550567f4af0ed202d7235b74d6/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/525046",
+    "spotify_url": "https://open.spotify.com/search/Kendrick%20Lamar",
     "search_name": "Kendrick Lamar"
   },
   {
@@ -332,7 +670,7 @@
     ],
     "popularity": 3555216,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/a59aabd18e84d732ce3b9f6f5c4e5f50/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/1309",
+    "spotify_url": "https://open.spotify.com/search/Jay-Z",
     "search_name": "Jay-Z"
   },
   {
@@ -344,7 +682,7 @@
     ],
     "popularity": 2570330,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/af776cd99efbc010c3782030df0e7e1e/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/9064930",
+    "spotify_url": "https://open.spotify.com/search/Cardi%20B",
     "search_name": "Cardi B"
   },
   {
@@ -356,7 +694,7 @@
     ],
     "popularity": 7365678,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/cf30ba4b709168aee196dcf16f259f22/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/382937",
+    "spotify_url": "https://open.spotify.com/search/Nicki%20Minaj",
     "search_name": "Nicki Minaj"
   },
   {
@@ -368,7 +706,7 @@
     ],
     "popularity": 3090933,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/8d8316146026d7e6ce377e314536df62/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/4495513",
+    "spotify_url": "https://open.spotify.com/search/Travis%20Scott",
     "search_name": "Travis Scott"
   },
   {
@@ -380,8 +718,73 @@
     ],
     "popularity": 4161346,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/a5a8cca44e7eab2db7d44e039bed2574/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/7543848",
+    "spotify_url": "https://open.spotify.com/search/Post%20Malone",
     "search_name": "Post Malone"
+  },
+  {
+    "name": "J. Cole",
+    "id": "339209",
+    "genres": [
+      "hip-hop",
+      "conscious rap"
+    ],
+    "popularity": 2723729,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/dc8d97f19855c8ea3f15ee6db784198e/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/J.%20Cole",
+    "deezer_url": "https://www.deezer.com/artist/339209",
+    "search_name": "J. Cole"
+  },
+  {
+    "name": "Kanye West",
+    "id": "230",
+    "genres": [
+      "hip-hop",
+      "rap"
+    ],
+    "popularity": 4506961,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/bb76c2ee3b068726ab4c37b0aabdb57a/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Kanye%20West",
+    "deezer_url": "https://www.deezer.com/artist/230",
+    "search_name": "Kanye West"
+  },
+  {
+    "name": "Lil Wayne",
+    "id": "74309",
+    "genres": [
+      "hip-hop",
+      "rap"
+    ],
+    "popularity": 5805283,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/3ced6f5ba94b771cf704fec83c58c798/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Lil%20Wayne",
+    "deezer_url": "https://www.deezer.com/artist/74309",
+    "search_name": "Lil Wayne"
+  },
+  {
+    "name": "21 Savage",
+    "id": "6853403",
+    "genres": [
+      "hip-hop",
+      "trap"
+    ],
+    "popularity": 1492305,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/76b4cd56c7e94e8d2bdc3e2157e1080f/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/21%20Savage",
+    "deezer_url": "https://www.deezer.com/artist/6853403",
+    "search_name": "21 Savage"
+  },
+  {
+    "name": "A$AP Rocky",
+    "id": "1518490",
+    "genres": [
+      "hip-hop",
+      "trap"
+    ],
+    "popularity": 2079365,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/5eebb137c5f4d0eb8fb5f9227e1b6288/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/A%24AP%20Rocky",
+    "deezer_url": "https://www.deezer.com/artist/1518490",
+    "search_name": "A$AP Rocky"
   },
   {
     "name": "Bad Bunny",
@@ -392,7 +795,7 @@
     ],
     "popularity": 7777603,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/45aaf836629158d714432ae37e552ee7/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/10583405",
+    "spotify_url": "https://open.spotify.com/search/Bad%20Bunny",
     "search_name": "Bad Bunny"
   },
   {
@@ -404,7 +807,7 @@
     ],
     "popularity": 11506214,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/69c569506a8ff6ab0edfecbd1adf94b0/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/160",
+    "spotify_url": "https://open.spotify.com/search/Shakira",
     "search_name": "Shakira"
   },
   {
@@ -416,7 +819,7 @@
     ],
     "popularity": 10308926,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/325eaa46bc25052d0e3d549d60cc8225/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/4860761",
+    "spotify_url": "https://open.spotify.com/search/J%20Balvin",
     "search_name": "J Balvin"
   },
   {
@@ -428,7 +831,7 @@
     ],
     "popularity": 1030175,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/96636156440182f1e7db3f77d39e6545/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/554792",
+    "spotify_url": "https://open.spotify.com/search/Rosalia",
     "search_name": "Rosalia"
   },
   {
@@ -440,7 +843,7 @@
     ],
     "popularity": 8046697,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/a1627f420e880b7229e52890b99626c9/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/1424602",
+    "spotify_url": "https://open.spotify.com/search/Maluma",
     "search_name": "Maluma"
   },
   {
@@ -452,7 +855,7 @@
     ],
     "popularity": 2598287,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/fc838a70027abfd9b9d0f8906f2a1421/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/112",
+    "spotify_url": "https://open.spotify.com/search/Marc%20Anthony",
     "search_name": "Marc Anthony"
   },
   {
@@ -464,7 +867,7 @@
     ],
     "popularity": 7131465,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/a4f77d40d68cf544e74883b2bd904fce/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/3839",
+    "spotify_url": "https://open.spotify.com/search/Daddy%20Yankee",
     "search_name": "Daddy Yankee"
   },
   {
@@ -476,7 +879,7 @@
     ],
     "popularity": 3140962,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/db13837cc4442f835ceaeeeb67e9dc98/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/6707",
+    "spotify_url": "https://open.spotify.com/search/Luis%20Fonsi",
     "search_name": "Luis Fonsi"
   },
   {
@@ -488,7 +891,7 @@
     ],
     "popularity": 4706740,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/df2030b9e796f55f58d2c4b68aecb18f/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/4937383",
+    "spotify_url": "https://open.spotify.com/search/Ozuna",
     "search_name": "Ozuna"
   },
   {
@@ -500,8 +903,86 @@
     ],
     "popularity": 3368170,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/dd8c6b3068d2761955eb6e432046ed91/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/5297021",
+    "spotify_url": "https://open.spotify.com/search/Karol%20G",
     "search_name": "Karol G"
+  },
+  {
+    "name": "Rauw Alejandro",
+    "id": "11289472",
+    "genres": [
+      "reggaeton",
+      "urban latin"
+    ],
+    "popularity": 2111685,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/0e7b2b93b91789a054bc3f08bb3df3a8/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Rauw%20Alejandro",
+    "deezer_url": "https://www.deezer.com/artist/11289472",
+    "search_name": "Rauw Alejandro"
+  },
+  {
+    "name": "Becky G",
+    "id": "4698748",
+    "genres": [
+      "latin pop",
+      "reggaeton"
+    ],
+    "popularity": 1859333,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/4592b032de9d1393fcd1c32780755372/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Becky%20G",
+    "deezer_url": "https://www.deezer.com/artist/4698748",
+    "search_name": "Becky G"
+  },
+  {
+    "name": "Sebastian Yatra",
+    "id": "5266156",
+    "genres": [
+      "latin pop",
+      "pop"
+    ],
+    "popularity": 2369007,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/b1ace3bd4ae0519faad8222ebbda6b24/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Sebastian%20Yatra",
+    "deezer_url": "https://www.deezer.com/artist/5266156",
+    "search_name": "Sebastian Yatra"
+  },
+  {
+    "name": "Maria Becerra",
+    "id": "14343187",
+    "genres": [
+      "reggaeton",
+      "latin pop"
+    ],
+    "popularity": 376124,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/022b53ec2020238407549a708e068e86/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Maria%20Becerra",
+    "deezer_url": "https://www.deezer.com/artist/14343187",
+    "search_name": "Maria Becerra"
+  },
+  {
+    "name": "Anuel AA",
+    "id": "7961888",
+    "genres": [
+      "reggaeton",
+      "trap latino"
+    ],
+    "popularity": 2454488,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/d128822eb60817b362b9d6e8c696e933/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Anuel%20AA",
+    "deezer_url": "https://www.deezer.com/artist/7961888",
+    "search_name": "Anuel AA"
+  },
+  {
+    "name": "Sech",
+    "id": "5412407",
+    "genres": [
+      "reggaeton",
+      "latin pop"
+    ],
+    "popularity": 1571031,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/df603ce80d18e234c1cfc66a14c1713e/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Sech",
+    "deezer_url": "https://www.deezer.com/artist/5412407",
+    "search_name": "Sech"
   },
   {
     "name": "Hozier",
@@ -512,7 +993,7 @@
     ],
     "popularity": 1392580,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/4970da41372f40bb2d85b71d41c359e8/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/5062414",
+    "spotify_url": "https://open.spotify.com/search/Hozier",
     "search_name": "Hozier"
   },
   {
@@ -524,7 +1005,7 @@
     ],
     "popularity": 2066475,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/c38f17b73ad22d280c5dfc8a8b3d1865/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/4448485",
+    "spotify_url": "https://open.spotify.com/search/Lorde",
     "search_name": "Lorde"
   },
   {
@@ -536,8 +1017,60 @@
     ],
     "popularity": 196566,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/ba22e54b6a9b9696be627955a49c720a/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/1058631",
+    "spotify_url": "https://open.spotify.com/search/Phoebe%20Bridgers",
     "search_name": "Phoebe Bridgers"
+  },
+  {
+    "name": "Bon Iver",
+    "id": "78668",
+    "genres": [
+      "indie folk",
+      "folk"
+    ],
+    "popularity": 543097,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/6edd41ee3cd3005077e07647242fb238/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Bon%20Iver",
+    "deezer_url": "https://www.deezer.com/artist/78668",
+    "search_name": "Bon Iver"
+  },
+  {
+    "name": "Vampire Weekend",
+    "id": "75781",
+    "genres": [
+      "indie pop",
+      "indie rock"
+    ],
+    "popularity": 470488,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/e3492e6ca995cb06a09831a00e944ecf/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Vampire%20Weekend",
+    "deezer_url": "https://www.deezer.com/artist/75781",
+    "search_name": "Vampire Weekend"
+  },
+  {
+    "name": "Fleet Foxes",
+    "id": "74444",
+    "genres": [
+      "indie folk",
+      "folk rock"
+    ],
+    "popularity": 163063,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/1b4c457f1b2e33767dc0236c2226034e/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Fleet%20Foxes",
+    "deezer_url": "https://www.deezer.com/artist/74444",
+    "search_name": "Fleet Foxes"
+  },
+  {
+    "name": "Cigarettes After Sex",
+    "id": "9568982",
+    "genres": [
+      "ambient pop",
+      "dream pop"
+    ],
+    "popularity": 866842,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/78a73789b4017103858b9261b8a701d5/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/Cigarettes%20After%20Sex",
+    "deezer_url": "https://www.deezer.com/artist/9568982",
+    "search_name": "Cigarettes After Sex"
   },
   {
     "name": "Elvis Presley",
@@ -548,7 +1081,7 @@
     ],
     "popularity": 3244631,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/935d35a45e061e7640a0becfa42cef6e/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/1125",
+    "spotify_url": "https://open.spotify.com/search/Elvis%20Presley",
     "search_name": "Elvis Presley"
   },
   {
@@ -560,7 +1093,7 @@
     ],
     "popularity": 2404625,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/8301a6a09a24f4bb35950c59717defa0/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/997",
+    "spotify_url": "https://open.spotify.com/search/David%20Bowie",
     "search_name": "David Bowie"
   },
   {
@@ -572,7 +1105,7 @@
     ],
     "popularity": 1337075,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/85eec086152fb01d873ccdb0810e2660/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/1878",
+    "spotify_url": "https://open.spotify.com/search/Prince",
     "search_name": "Prince"
   },
   {
@@ -584,7 +1117,7 @@
     ],
     "popularity": 1806537,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/97b9a6e85e0efc1e6a991a033a1e25bf/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/405",
+    "spotify_url": "https://open.spotify.com/search/Johnny%20Cash",
     "search_name": "Johnny Cash"
   },
   {
@@ -596,8 +1129,21 @@
     ],
     "popularity": 2095901,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/b8a57d58ceced56e2222ea8d6e6c4a85/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/808",
+    "spotify_url": "https://open.spotify.com/search/Bob%20Dylan",
     "search_name": "Bob Dylan"
+  },
+  {
+    "name": "James Brown",
+    "id": "1622",
+    "genres": [
+      "funk",
+      "soul"
+    ],
+    "popularity": 1435519,
+    "image_url": "https://cdn-images.dzcdn.net/images/artist/c9629ef2cc26ee5559900063aac52ffd/1000x1000-000000-80-0-0.jpg",
+    "spotify_url": "https://open.spotify.com/search/James%20Brown",
+    "deezer_url": "https://www.deezer.com/artist/1622",
+    "search_name": "James Brown"
   },
   {
     "name": "Rihanna",
@@ -608,7 +1154,7 @@
     ],
     "popularity": 17861564,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/b78cdc205fae2641b89208e78b30e1b3/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/564",
+    "spotify_url": "https://open.spotify.com/search/Rihanna",
     "search_name": "Rihanna"
   },
   {
@@ -620,7 +1166,7 @@
     ],
     "popularity": 2155843,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/1151dba9b3edc0633adf35b64c21713f/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/5313805",
+    "spotify_url": "https://open.spotify.com/search/Harry%20Styles",
     "search_name": "Harry Styles"
   },
   {
@@ -632,7 +1178,7 @@
     ],
     "popularity": 1738704,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/2c9e480317183c037eaebcd7ba96daf4/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/11152580",
+    "spotify_url": "https://open.spotify.com/search/Olivia%20Rodrigo",
     "search_name": "Olivia Rodrigo"
   },
   {
@@ -644,7 +1190,7 @@
     ],
     "popularity": 2457867,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/9e3a3b8792a04c4578da7b905ffeaf2b/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/5578942",
+    "spotify_url": "https://open.spotify.com/search/Doja%20Cat",
     "search_name": "Doja Cat"
   },
   {
@@ -656,7 +1202,7 @@
     ],
     "popularity": 1292367,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/8ced041da2bed70d5715f0860956169b/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/5531258",
+    "spotify_url": "https://open.spotify.com/search/SZA",
     "search_name": "SZA"
   },
   {
@@ -668,7 +1214,7 @@
     ],
     "popularity": 1333559,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/5eceecd683beab6dd901a7931294a121/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/1194083",
+    "spotify_url": "https://open.spotify.com/search/Tyler%20the%20Creator",
     "search_name": "Tyler the Creator"
   },
   {
@@ -680,7 +1226,7 @@
     ],
     "popularity": 6742182,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/3d8ed563d628c5c61ec4569d032ab682/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/5962948",
+    "spotify_url": "https://open.spotify.com/search/Shawn%20Mendes",
     "search_name": "Shawn Mendes"
   },
   {
@@ -692,7 +1238,7 @@
     ],
     "popularity": 3876554,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/4591e8a49868c2494652767f47695a90/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/9236850",
+    "spotify_url": "https://open.spotify.com/search/Camila%20Cabello",
     "search_name": "Camila Cabello"
   },
   {
@@ -704,7 +1250,7 @@
     ],
     "popularity": 2287035,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/c355b366638e0c5f20f4b265f0f12646/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/1362735",
+    "spotify_url": "https://open.spotify.com/search/Charlie%20Puth",
     "search_name": "Charlie Puth"
   },
   {
@@ -716,7 +1262,7 @@
     ],
     "popularity": 1751692,
     "image_url": "https://cdn-images.dzcdn.net/images/artist/e6237058662af2e9d4815e57071353cd/1000x1000-000000-80-0-0.jpg",
-    "spotify_url": "https://www.deezer.com/artist/362326",
+    "spotify_url": "https://open.spotify.com/search/Khalid",
     "search_name": "Khalid"
   }
 ]
