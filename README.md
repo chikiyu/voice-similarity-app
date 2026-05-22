@@ -11,7 +11,7 @@ pinned: false
 
 # 🎙️ Voice Similarity App — Who do you sound like?
 
-> Record your voice singing → ML compares your vocal features against 60+ artists → Top 5 most similar singers
+> Record your voice singing → ML compares your vocal features against 100+ artists → Top 5 most similar singers
 
 **[→ Try it live on Hugging Face Spaces](https://huggingface.co/spaces/ayayon/voice-similarity-app)**
 
@@ -26,7 +26,7 @@ pinned: false
 
 ```
 audio (.wav/mp3) → librosa feature extraction → 118-dim L2-normalized vector
-    → cosine similarity against 60+ artist embeddings → Top 5 results
+    → cosine similarity against 100+ artist embeddings → Top 5 results
 ```
 
 ## Feature vector breakdown
@@ -38,7 +38,7 @@ audio (.wav/mp3) → librosa feature extraction → 118-dim L2-normalized vector
 | Spectral Contrast (7 bands, mean + std) | 14 | Vocal brightness vs. depth |
 | **Total** | **118** | |
 
-## Artists covered (60+)
+## Artists covered (100+)
 
 Pop · R&B · Rock · Hip-Hop · Latin · Indie · Classic
 
